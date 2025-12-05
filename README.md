@@ -1,4 +1,6 @@
-**FITNESS ZONE** es una página web para un gimnasio ficticio, diseñada para mostrar información de servicios, planes de membresía, galería, ubicación y contacto.
+**FITNESS ZONE**
+
+Es una página web para un gimnasio ficticio, diseñada para mostrar información de servicios, planes de membresía, galería, ubicación y contacto.
 
 ---
 
