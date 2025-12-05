@@ -1,5 +1,5 @@
-#FITNESS ZONE - Gimnasio
-![1](https://github.com/user-attachments/assets/85f702da-8ea4-48b2-93d1-a82aaa3f796e)
+#F<img width="1024" height="1024" alt="Gemini_Generated_Image_bz8yyxbz8yyxbz8y" src="https://github.com/user-attachments/assets/eba8a2a2-9507-442e-ba0d-7fb7df961b3b" />
+
 
 
 
