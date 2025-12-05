@@ -1,5 +1,10 @@
-#                                                                                    FITNESS ZONE - Gimnasio
-![test](img/logo.png)
+#FITNESS ZONE - Gimnasio
+
+<p align="center">
+  <img src="img/logo.png" alt="Logo del proyecto" width="200"/>
+</p>
+
+
 **FITNESS ZONE** es una página web para un gimnasio ficticio, diseñada para mostrar información de servicios, planes de membresía, galería, ubicación y contacto.
 
 ---
