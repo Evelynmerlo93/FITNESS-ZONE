@@ -1,8 +1,8 @@
 #                                                                                    FITNESS ZONE - Gimnasio
 
-<img width="500" height="500" alt="Logo Deporte Mujer Moderno Negro y Rosa" src="https://github.com/user-attachments/assets/8d102c4c-7a53-4ff3-97aa-6058432e66b5" />
-Cambia esto si tienes un logo -->
-
+<p align="center">
+  <img src="img/logo.png" alt="Logo del proyecto" width="200"/>
+</p>
 **FITNESS ZONE** es una página web para un gimnasio ficticio, diseñada para mostrar información de servicios, planes de membresía, galería, ubicación y contacto.
 
 ---
