@@ -1,8 +1,5 @@
 #FITNESS ZONE - Gimnasio
-
-<p align="center">
-  <img src="./img/logo.png" alt="Logo del proyecto" width="200"/>
-</p>
+![1](https://github.com/user-attachments/assets/85f702da-8ea4-48b2-93d1-a82aaa3f796e)
 
 
 
