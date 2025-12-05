@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,300italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/estilos.css">
+    <title>FITNESS ZONE - Gimnasio</title>
+</head>
+<body>
+    <header>
+        <div class="contenedor">
+            <nav class="menu">
+                <a href="#acerca-de" id="btn-acerca-de">Acerca de</a>
+                <a href="#servicios" id="btn-servicios">Servicios</a> <!-- ID Cambiado de #menu a #servicios -->
+                <a href="#planes" id="btn-planes">Planes</a>
+                <a href="#galeria" id="btn-galeria">Galería</a>
+                <a href="#ubicacion" id="btn-ubicacion">Ubicación</a>
+            </nav>
+
+            <div class="textos">
+                <h1 class="nombre">FITNESS <span>ZONE</span></h1>
+                <h3>Tu zona de entrenamiento de alto rendimiento.</h3>
+            </div>
+        </div>
+    </header>
+
+    <section class="main">
+        
+        <!-- SECCIÓN: ACERCA DE NOSOTROS -->
+        <section class="acerca-de" id="acerca-de">
+            <div class="contenedor">
+                <div class="foto">
+                    <img src="img/acerca-de.jpg" alt="Personas entrenando">
+                </div>
+                <article>
+                    <h3>Acerca de Nosotros</h3>
+                    <p>En FITNESS ZONE, creemos que la salud es un estilo de vida. Ofrecemos equipos de última generación y un ambiente motivador para que alcances tus metas.</p>
+                    <p>Contamos con entrenadores certificados, amplias zonas de peso libre y las mejores clases grupales de la ciudad. ¡Únete a nuestra comunidad y transforma tu cuerpo!</p>
+                </article>
+            </div>
+        </section>
+
+
+
+        <!-- SECCIÓN: PLANES DE MEMBRESÍA -->
+        <section class="planes" id="planes">
+            <div class="contenedor">
+                <h3 class="titulo">Planes de Membresía</h3>
+                
+                <div class="contenedor-planes">
+                    
+                    <!-- PLAN BRONCE -->
+                    <article class="plan-card">
+                        <h4>Plan BRONCE</h4>
+                        <p class="precio">€30<span>/mes</span></p>
+                        <ul>
+                            <li><p>Acceso a Zona de Cardio.</p></li>
+                            <li><p>Acceso a Máquinas Guiadas.</p></li>
+                            <li><p>Horario de Lunes a Viernes (8:00 - 17:00).</p></li>
+                            <li class="excluir"><p>Clases Grupales (Excluido).</p></li>
+                            <li class="excluir"><p>Acceso 24/7 (Excluido).</p></li>
+                        </ul>
+                        <a href="#" class="btn-info">¡Inscríbete!</a> 
+                    </article>
+
+                    <!-- PLAN ORO (Destacado) -->
+                    <article class="plan-card destacado">
+                        <h4>Plan ORO</h4>
+                        <p class="precio">€60<span>/mes</span></p>
+                        <ul>
+                            <li><p>Acceso Total a Instalaciones.</p></li>
+                            <li><p>Acceso 24 horas al día / 7 días a la semana.</p></li>
+                            <li><p>Clases Grupales Ilimitadas (Spinning, Yoga, Zumba).</p></li>
+                            <li><p>Asesoría Nutricional Mensual.</p></li>
+                            <li><p>Uso de Sauna y Taquillas Premium.</p></li>
+                        </ul>
+                        <a href="#" class="btn-info">¡Me Apunto!</a> 
+                    </article>
+                    
+                    <!-- PLAN CLASES -->
+                    <article class="plan-card">
+                        <h4>Plan CLASES</h4>
+                        <p class="precio">€45<span>/mes</span></p>
+                        <ul>
+                            <li><p>Acceso a Zona de Peso Libre.</p></li>
+                            <li><p>Acceso a Máquinas Guiadas.</p></li>
+                            <li><p>Clases Grupales Ilimitadas.</p></li>
+                            <li class="excluir"><p>Acceso 24/7 (Excluido).</p></li>
+                            <li class="excluir"><p>Asesoría (Excluido).</p></li>
+                        </ul>
+                        <a href="#" class="btn-info">¡Inscríbete Hoy!</a> 
+                    </article>
+                </div> 
+            </div> 
+        </section>
+
+
+        <!-- SECCIÓN: GALERÍA -->
+        <section class="galeria" id="galeria">
+            <div class="foto"> <img src="img/1.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/2.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/3.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/4.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/5.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/6.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/7.jpg" alt=""> </div>
+            <div class="foto"> <img src="img/8.jpg" alt=""> </div>
+        </section>
+
+        <!-- SECCIÓN: UBICACIÓN Y HORARIOS -->
+        <section class="ubicacion" id="ubicacion">
+            <div class="contenedor">
+                <h3 class="titulo">Ubicación</h3>
+                <div class="direccion">
+                    <p class="calle">2915 Primrose Lane<br />Anaheim, CA 92806</p>
+                    <p class="telefono">(503) 400-5479</p>
+                    <p class="correo">contacto [at] correo.com</p>
+                </div>
+                <div class="horarios">
+                    <h4>Horarios</h4>
+                    <p class="entre-semana">Lunes a Viernes<br />8:00am - 9:00pm</p>
+                    <p class="fin-semana">Sabados y Domingos<br />11:00am - 11:00pm</p>
+                </div>
+            </div>
+        </section>
+
+        <!-- MAPA -->
+        <section class="mapa">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m21!1m12!1m3!1d3733.3836847970842!2d-103.39386822512469!3d20.653963595389975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m6!3e0!4m0!4m3!3m2!1d20.6544405!2d-103.391583!5e0!3m2!1ses!2smx!4v1460436070427" width="1600" height="552" frameborder="0" style="border:0" allowfullscreen></iframe>
+        </section>
+
+    </section> 
+
+    <!-- FOOTER NUEVO DE 3 COLUMNAS -->
+    <footer>
+        <div class="footer-contenido">
+            <div class="contenedor">
+                <!-- COLUMNA 1: LOGO Y REDES SOCIALES -->
+                <div class="footer-columna logo-social">
+                    <h4>FITNESS ZONE</h4>
+                    <div class="redes-sociales">
+                        <a href="#"><img src="img/facebook.png" alt="Facebook" width="24"></a>
+                        <a href="#"><img src="img/instagram.png" alt="Instagram" width="24"></a>
+                        <a href="#"><img src="img/youtube.png" alt="YouTube" width="24"></a>
+                    </div>
+                </div>
+                <!-- COLUMNA 2: ENLACES RÁPIDOS -->
+                <div class="footer-columna">
+                    <h4>Enlaces Rápidos</h4>
+                    <ul>
+                        <li><a href="#acerca-de">Nuestra Misión</a></li>
+                        <li><a href="#servicios">Servicios</a></li>
+                        <li><a href="#planes">Planes y Precios</a></li>
+                        <li><a href="#ubicacion">Contáctanos</a></li>
+                    </ul>
+                </div>
+                <!-- COLUMNA 3: LEGAL Y AYUDA -->
+                <div class="footer-columna legal">
+                    <h4>Información Legal</h4>
+                    <ul>
+                        <li><a href="#">Términos y Condiciones</a></li>
+                        <li><a href="#">Políticas de Privacidad</a></li>
+                        <li><a href="#">Preguntas Frecuentes (FAQ)</a></li>
+                        <li><a href="#">Libro de Quejas</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <!-- SECCIÓN DE COPYRIGHT -->
+        <div class="footer-copyright">
+            <div class="contenedor">
+                <p>Copyright FITNESS ZONE © 2025 | Todos los derechos reservados.</p>
+                <p>Razón Social: Fitness S.A. CUIT 30-00000000 | Dirección: Calle Falsa 123.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/jquery-1.12.3.min.js"></script>
+    <script src="js/parallax.js"></script>
+    <script src="js/efectos.js"></script>
+</body>
+</html>
