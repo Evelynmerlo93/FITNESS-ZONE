@@ -1,8 +1,3 @@
-#F<img width="1024" height="1024" alt="Gemini_Generated_Image_bz8yyxbz8yyxbz8y" src="https://github.com/user-attachments/assets/eba8a2a2-9507-442e-ba0d-7fb7df961b3b" />
-
-
-
-
 **FITNESS ZONE** es una página web para un gimnasio ficticio, diseñada para mostrar información de servicios, planes de membresía, galería, ubicación y contacto.
 
 ---
